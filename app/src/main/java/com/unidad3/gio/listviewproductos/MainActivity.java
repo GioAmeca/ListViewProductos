@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity  {
  private TextView TxtCategoria;
  private ListView TxtLista;
  private String productos[]={"Computadora", "Mouse", "Dulces", "Hojas", "Lapices", "Lentes","Reloj",
